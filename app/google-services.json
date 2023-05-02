@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "268088460012",
+    "project_id": "todo-a977e",
+    "storage_bucket": "todo-a977e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268088460012:android:be52fe5130e0864cad5bc9",
+        "android_client_info": {
+          "package_name": "com.exemple.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268088460012-riqhgsqtt1pgv2mfvhb34tan5djo0pcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bDeg6OnBlfNQQrb-1wR_kvBVUC3DQz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268088460012-riqhgsqtt1pgv2mfvhb34tan5djo0pcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268088460012:android:23fe4e7cdf6522a9ad5bc9",
+        "android_client_info": {
+          "package_name": "easy.tuto.notespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268088460012-riqhgsqtt1pgv2mfvhb34tan5djo0pcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bDeg6OnBlfNQQrb-1wR_kvBVUC3DQz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268088460012-riqhgsqtt1pgv2mfvhb34tan5djo0pcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
